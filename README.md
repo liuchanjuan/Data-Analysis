@@ -1,7 +1,8 @@
 # Data-Analysis
-for data analysis
+for data analysis fresher
 
 #SQL Part
+
 Q1
 select / from / where / join / group by / order by / having / on, 请根据执行顺序对其进行排序。
 
